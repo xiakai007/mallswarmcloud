@@ -5,5 +5,6 @@ public class GitTest {
         String username="shaanxi";
         Integer age=25;
         String tea="redTea其他人修改-1";
+        String school="mike";
     }
 }
