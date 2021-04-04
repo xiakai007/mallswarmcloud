@@ -6,5 +6,6 @@ public class GitTest {
         Integer age=25;
         String tea="redTea其他人修改-1";
         String school="mike";
+        String stu="aaaaaa";
     }
 }
